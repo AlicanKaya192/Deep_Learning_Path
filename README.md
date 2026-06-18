@@ -57,7 +57,15 @@ Deep-Learning-Path/
 │   └── 07_transfer_learning_kapsamli.ipynb
 │
 ├── 08-RNN_LSTM_GRU/
+│   ├── 08_RNN_LSTM_GRU.pdf
+│   ├── 08_rnn_lstm_gru.py
+│   └── 08_rnn_lstm_gru_kapsamli.ipynb
+│
 ├── 09-Transformer_ve_Attention/
+│   ├── 09_Transformer_Attention.pdf
+│   ├── 09_transformer_attention.py
+│   └── 09_transformer_kapsamli.ipynb
+│
 ├── 10-Generative_Models_GAN_VAE/
 │
 └── 11-FINAL_PROJE_Multimodal_Sentiment/
@@ -134,7 +142,7 @@ pip install numpy matplotlib scikit-learn tensorflow torch torchvision jupyter
 
 ## 📊 İlerleme
 
-![%20](https://img.shields.io/badge/İlerleme-7%2F11%20Modül-blue)
+![%20](https://img.shields.io/badge/İlerleme-9%2F11%20Modül-blue)
 
 - [x] Modül 01 — Sinir Ağları Temelleri
 - [x] Modül 02 — Aktivasyon Fonksiyonları
@@ -143,8 +151,8 @@ pip install numpy matplotlib scikit-learn tensorflow torch torchvision jupyter
 - [x] Modül 05 — Regularization
 - [x] Modül 06 — CNN
 - [x] Modül 07 — Transfer Learning
-- [ ] Modül 08 — RNN / LSTM / GRU
-- [ ] Modül 09 — Transformer & Attention
+- [x] Modül 08 — RNN / LSTM / GRU
+- [x] Modül 09 — Transformer & Attention
 - [ ] Modül 10 — GAN & VAE
 - [ ] Modül 11 — Final Proje
 

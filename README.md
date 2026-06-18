@@ -37,9 +37,25 @@ Deep-Learning-Path/
 │   └── 03_kayip_optimizasyon_kapsamli.ipynb
 │
 ├── 04-Geri_Yayilim_Backpropagation/
+│   ├── 04_Backpropagation.pdf
+│   ├── 04_backpropagation_numpy.py
+│   └── 04_backpropagation_kapsamli.ipynb
+│
 ├── 05-Derin_Aglar_Regularization/
+│   ├── 05_Regularization.pdf
+│   ├── 05_regularization.py
+│   └── 05_regularization_kapsamli.ipynb
+│
 ├── 06-CNN_Evrisimsel_Sinir_Aglari/
+│   ├── 06_CNN.pdf
+│   ├── 06_cnn_tensorflow_pytorch.py
+│   └── 06_cnn_kapsamli.ipynb
+│
 ├── 07-Transfer_Learning/
+│   ├── 07_Transfer_Learning.pdf
+│   ├── 07_transfer_learning.py
+│   └── 07_transfer_learning_kapsamli.ipynb
+│
 ├── 08-RNN_LSTM_GRU/
 ├── 09-Transformer_ve_Attention/
 ├── 10-Generative_Models_GAN_VAE/
@@ -118,15 +134,15 @@ pip install numpy matplotlib scikit-learn tensorflow torch torchvision jupyter
 
 ## 📊 İlerleme
 
-![%20](https://img.shields.io/badge/İlerleme-3%2F11%20Modül-blue)
+![%20](https://img.shields.io/badge/İlerleme-7%2F11%20Modül-blue)
 
 - [x] Modül 01 — Sinir Ağları Temelleri
 - [x] Modül 02 — Aktivasyon Fonksiyonları
 - [x] Modül 03 — Kayıp Fonksiyonları & Optimizasyon
-- [ ] Modül 04 — Backpropagation
-- [ ] Modül 05 — Regularization
-- [ ] Modül 06 — CNN
-- [ ] Modül 07 — Transfer Learning
+- [x] Modül 04 — Backpropagation
+- [x] Modül 05 — Regularization
+- [x] Modül 06 — CNN
+- [x] Modül 07 — Transfer Learning
 - [ ] Modül 08 — RNN / LSTM / GRU
 - [ ] Modül 09 — Transformer & Attention
 - [ ] Modül 10 — GAN & VAE

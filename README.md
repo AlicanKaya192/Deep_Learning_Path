@@ -32,6 +32,10 @@ Deep-Learning-Path/
 │   └── 02_aktivasyon_fonksiyonlari_kapsamli.ipynb
 │
 ├── 03-Kayip_Fonksiyonlari_ve_Optimizasyon/
+│   ├── 03_Kayip_Optimizasyon.pdf
+│   ├── 03_kayip_optimizasyon.py
+│   └── 03_kayip_optimizasyon_kapsamli.ipynb
+│
 ├── 04-Geri_Yayilim_Backpropagation/
 ├── 05-Derin_Aglar_Regularization/
 ├── 06-CNN_Evrisimsel_Sinir_Aglari/
@@ -114,11 +118,11 @@ pip install numpy matplotlib scikit-learn tensorflow torch torchvision jupyter
 
 ## 📊 İlerleme
 
-![%20](https://img.shields.io/badge/İlerleme-2%2F11%20Modül-blue)
+![%20](https://img.shields.io/badge/İlerleme-3%2F11%20Modül-blue)
 
 - [x] Modül 01 — Sinir Ağları Temelleri
 - [x] Modül 02 — Aktivasyon Fonksiyonları
-- [ ] Modül 03 — Kayıp Fonksiyonları & Optimizasyon
+- [x] Modül 03 — Kayıp Fonksiyonları & Optimizasyon
 - [ ] Modül 04 — Backpropagation
 - [ ] Modül 05 — Regularization
 - [ ] Modül 06 — CNN

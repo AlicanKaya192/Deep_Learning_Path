@@ -67,6 +67,9 @@ Deep-Learning-Path/
 │   └── 09_transformer_kapsamli.ipynb
 │
 ├── 10-Generative_Models_GAN_VAE/
+│   ├── 10_GAN_VAE.pdf
+│   ├── 10_gan_vae.py
+│   └── 10_gan_vae_kapsamli.ipynb
 │
 └── 11-FINAL_PROJE_Multimodal_Sentiment/
     ├── multimodal_sentiment_analysis.py
@@ -142,7 +145,7 @@ pip install numpy matplotlib scikit-learn tensorflow torch torchvision jupyter
 
 ## 📊 İlerleme
 
-![%20](https://img.shields.io/badge/İlerleme-9%2F11%20Modül-blue)
+![%20](https://img.shields.io/badge/İlerleme-11%2F11%20Modül-success)
 
 - [x] Modül 01 — Sinir Ağları Temelleri
 - [x] Modül 02 — Aktivasyon Fonksiyonları
@@ -153,8 +156,8 @@ pip install numpy matplotlib scikit-learn tensorflow torch torchvision jupyter
 - [x] Modül 07 — Transfer Learning
 - [x] Modül 08 — RNN / LSTM / GRU
 - [x] Modül 09 — Transformer & Attention
-- [ ] Modül 10 — GAN & VAE
-- [ ] Modül 11 — Final Proje
+- [x] Modül 10 — GAN & VAE
+- [x] Modül 11 — Final Proje
 
 ---
 
